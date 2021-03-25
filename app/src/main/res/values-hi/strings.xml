@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Assignment4</string>
+
+    <string name="personal">व्यक्तिगत विवरण</string>
+    <string name="edu">शिक्षा विवरण</string>
+
+    <string name="name">पूरा नाम</string>
+    <string name="num">फ़ोन नंबर</string>
+    <string name="email">ईमेल आईडी</string>
+    <string name="country">देश</string>
+    <string name="address">पता</string>
+    <string name="date">जन्म की तारीख</string>
+    <string name="hobby">शौक</string>
+    <string name="gen">लिंग</string>
+
+    <string name="click">यहाँ क्लिक करें</string>
+    <string name="male">पुरुष</string>
+    <string name="female">महिला</string>
+    <string name="h1">पढ़ना</string>
+    <string name="h2">यात्रा का</string>
+    <string name="h3">संगीत</string>
+    <string name="next">आगे</string>
+
+    <string name="board">एसएससी / एचएससी</string>
+    <string name="degree">डिग्री</string>
+    <string name="pr">प्रतिशत</string>
+    <string name="done">किया हुआ</string>
+</resources>
